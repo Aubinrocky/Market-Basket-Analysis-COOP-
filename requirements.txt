@@ -1,0 +1,8 @@
+Recquired libraries to be able to run MBA code:
+pandas
+numpy
+matplotlib
+mlxtend
+networkx
+
+You also need to change the path of your three datasets location in the .py file (from line 11 to 18)
